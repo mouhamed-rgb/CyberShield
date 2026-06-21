@@ -1,0 +1,12 @@
+{
+  "name": "virustotal-proxy",
+  "version": "1.0.0",
+  "description": "سيرفر وسيط آمن بين تطبيق Android و VirusTotal API",
+  "private": true,
+  "dependencies": {
+    "formidable": "^3.5.1"
+  },
+  "engines": {
+    "node": ">=18.x"
+  }
+}
